@@ -53,3 +53,6 @@ $ grunt serve
 MIT licensed
 
 Copyright (C) 2013 Hakim El Hattab, http://hakim.se
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/geshan/angular-presentation/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
